@@ -1,7 +1,11 @@
 {
   "embed": {
     "title": "__PvME Recommended EoF Setup__",
-    "description": "*Note: all PvME guides follow this setup. See <#797160458980950029> for other possible situational special attacks*",
+    "description": "*Note 1: all PvME guides follow this setup. See <#797160458980950029> for other possible situational special attacks*",
+    "description": "*Note 2: for detailed information on specific special attacks, use the following commands:*"
+    "value": "• !sgbeof <:sgb:626466665848242186> <:eofblue:780401412906680330>\n\u00a0\u00a0\u00a0\u00a0"
+    "value": "• !ecbeof <:ecb:615618531937222657> <:eofpink:780401412865523722>\n\u00a0\u00a0\u00a0\u00a0"
+    "value": "• !ezkeof <:zekkil:903244090953588787> <:eofor:745279787471470713>\n\u00a0\u00a0\u00a0\u00a0"
     "color": 39423,
     "image": { "url": "https://i.imgur.com/EHIddUF.png" }
   }
